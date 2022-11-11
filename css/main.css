@@ -27,6 +27,7 @@ h1 {
   margin-bottom: .5em;
 }
 
+
 .header {
   padding: 50px 100px;
   text-align: center;
@@ -34,5 +35,14 @@ h1 {
   color: #fff;
   font-family: sans-serif;
   font-size: 32px;
+}
+
+.main {
+  padding: 50px;
+  text-align: center;
+  background-color: aquamarine;
+  color:rgb(30, 18, 5);
+  font-family: serif;
+  font-size: 36px;
 }
 
